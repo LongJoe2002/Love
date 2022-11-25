@@ -1,0 +1,4 @@
+audio:hover, audio:focus, audio:active {
+  box-shadow: 15px 20px rgb(red, green, blue);
+
+}
